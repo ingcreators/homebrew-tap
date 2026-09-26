@@ -8,8 +8,8 @@
 class Tesseraql < Formula
   desc "CLI for TesseraQL, the SQL-first hypermedia application framework"
   homepage "https://ingcreators.com/tesseraql"
-  url "https://github.com/ingcreators/tesseraql/releases/download/v0.18.0/tesseraql-cli-0.18.0-dist.tar.gz"
-  sha256 "7d7efc9fab2e489b848f936bf342f13915abd6f7b26006cad2293ef19fb29283"
+  url "https://github.com/ingcreators/tesseraql/releases/download/v0.19.0/tesseraql-cli-0.19.0-dist.tar.gz"
+  sha256 "77762f0e2ecae9d022079b19a6c9687d8b8720e9fab6f706b1ff5f93ac660f76"
   license "Apache-2.0"
 
   livecheck do
